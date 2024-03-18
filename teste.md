@@ -9,8 +9,9 @@ Palavras-chave: Guia do Estudante, Tutoriais, Projeto.
 Keywords: Student Guide, Tutorial, Project.
 
 
-##### 1. Introdução
-###### Ao ingressar no IFRN os estudantes se deparam-se com SUAP, que se torna uma novidade. O SUAP  é um site voltado para os estudantes onde têm diversos setores, como Secretaria Acadêmica, Setor de Saúde, Serviço Social, entre outros. Por ser bem complexo, sempre surgem dúvidas de como resolver demandas. Pensando nesse quesito, priorizamos auxiliar o estudante com o site “Guia do estudante”, que terão essa ajuda por meio de tutorias que os auxiliarão a resolver seus problemas.
+**1. Introdução**
+###### 
+Ao ingressar no IFRN os estudantes se deparam-se com SUAP, que se torna uma novidade. O SUAP  é um site voltado para os estudantes onde têm diversos setores, como Secretaria Acadêmica, Setor de Saúde, Serviço Social, entre outros. Por ser bem complexo, sempre surgem dúvidas de como resolver demandas. Pensando nesse quesito, priorizamos auxiliar o estudante com o site “Guia do estudante”, que terão essa ajuda por meio de tutorias que os auxiliarão a resolver seus problemas.
 
 Antes da informatização dos serviços no IFRN, os estudantes ingressantes precisavam se dirigir fisicamente a alguns setores da escola para obter documentos e/ou informações, como declaração de matrícula, boletim, histórico escolar, ou para dar entrada em requerimentos de reposição de atividades, por exemplo.
 
@@ -22,22 +23,23 @@ O projeto se baseia em referências teóricas e práticas na área de educação
 
 
 ##### 2. Metodologia
-###### Foi implementado um processo de revisão para manter a precisão das informações. Para enriquecer o guia, estamos incorporando imagens, links e recursos interativos, além de avaliação e sugestão dos estudantes por meio de formulários de feedback para que os tutoriais no Website sejam desenvolvidos de maneira mais simplificada. A atualização contínua do conteúdo e a coleta de feedback dos usuários são aspectos cruciais do processo, permitindo ajustes e melhorias constantes. A combinação que está sendo utilizada entre DokuWiki, Ubuntu Server e VirtualBox oferece um ambiente robusto e colaborativo para criar um "Guia do Estudante" completo e acessível aos estudantes do Campus Ceará-Mirim.
+###### 
+Foi implementado um processo de revisão para manter a precisão das informações. Para enriquecer o guia, estamos incorporando imagens, links e recursos interativos, além de avaliação e sugestão dos estudantes por meio de formulários de feedback para que os tutoriais no Website sejam desenvolvidos de maneira mais simplificada. A atualização contínua do conteúdo e a coleta de feedback dos usuários são aspectos cruciais do processo, permitindo ajustes e melhorias constantes. A combinação que está sendo utilizada entre DokuWiki, Ubuntu Server e VirtualBox oferece um ambiente robusto e colaborativo para criar um "Guia do Estudante" completo e acessível aos estudantes do Campus Ceará-Mirim.
 De acordo com o Artigo do Dokuwiki os softwares colaborativos são considerados uma boa saída para empresas que visam ajudar o cliente, mas também envolver seus colaboradores de maneira aglutinada em novas ideias e projetos. Ferramentas de código aberto ou de fácil configuração sempre vão chamar atenção devido a sua agilidade de manipulação de dados e seu baixo custo. Por isso, será adotada uma abordagem de código aberto, utilizando a ferramenta DokuWiki, uma solução de software livre amplamente reconhecida por sua simplicidade e facilidade de uso na criação e manutenção de documentação colaborativa na web.
 A seguir serão apresentados os diagramas de caso de uso que mostram como acontece o funcionamento do projeto. Onde demonstramos as diferentes maneiras que o usuário e os desenvolvedores podem interagir com o sistema.
 
 
 Figura 1:  (a) Funcionamento do Website;  (b) Sugestão de novos tutoriais;  (c) Avaliação dos Tutoriais; 
 
-![a]![Alt text](<diagrama de caso de uso (2).png>)
-![b]![Alt text](<Guia do Estudante.png>)
-![c]![Alt text](<Guia do Estudante (1).png>)
+a)![Alt text](<diagrama de caso de uso (2).png>)
+b)![Alt text](<Guia do Estudante.png>)
+c)![Alt text](<Guia do Estudante (1).png>)
 
 
 ###### Fonte: Autoria própria.
 
 
-##### 3. Resultados e Discussões
+**3. Resultados e Discussões**
 ######
 Para atender as dúvidas mais frequentes dos estudantes, foi criado um Formulário de
 Sugestões de Tutoriais acessível a todos os estudantes. Com a finalidade de permitir que
@@ -60,7 +62,7 @@ Formulário mencionado com a seguinte pergunta:
 
 **“Você já teve dificuldade como essas ou outras? Se sim, escreva aqui sua dificuldade:”**
 
-![Figura 2: Foto do formulário de pesquisa realizado com os estudantes;]![Alt text](guia1.png)
+Figura 2: Foto do formulário de pesquisa realizado com os estudantes;![Alt text](guia1.png)
 
 ######
 Para criar um ambiente de teste robusto, foi adotada a configuração com VirtualBox,
@@ -71,11 +73,11 @@ sendo adaptado para se alinhar conforme as necessidades dos estudantes. Estão s
 personalizações específicas para tornar a plataforma mais amigável e eficaz como um recurso
 para tirar dúvidas, garantindo que os tutoriais fossem facilmente acessíveis e compreensíveis.
 
-![Foto da página inicial do Dokuwiki recém instalado.]![Alt text](dokuwiki4.png)
+Foto da página inicial do Dokuwiki recém instalado.![Alt text](dokuwiki4.png)
 
 ###### Fonte: Dokuwiki.
 
-##### 4. Considerações Finais
+**4. Considerações Finais**
 ######
 Até o momento, avançamos significativamente no projeto do Guia do Estudante, que
 visa criar um site com tutoriais destinados a resolver as dúvidas dos estudantes. A coleta de
@@ -93,7 +95,8 @@ recursos adicionais que possam beneficiar ainda mais os estudantes. Estamos comp
 em aprimorar constantemente o Guia do Estudante e criar um recurso valioso para a
 comunidade educacional.
 
-*Referências*
+
+**Referências**
 
 ######
 Instalação Ubuntu Server, Canal do YouTube: Diolinux. (2019). Ubuntu SERVER - COMO
