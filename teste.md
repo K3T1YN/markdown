@@ -29,9 +29,94 @@ A seguir serão apresentados os diagramas de caso de uso que mostram como aconte
 
 Figura 1:  (a) Funcionamento do Website;  (b) Sugestão de novos tutoriais;  (c) Avaliação dos Tutoriais; 
 
-![a](C:\Users\Viviane\Documents\GitHub\markdown\diagrama de caso de uso (2).png)
+![a]![Alt text](<diagrama de caso de uso (2).png>)
+![b]![Alt text](<Guia do Estudante.png>)
+![c]![Alt text](<Guia do Estudante (1).png>)
 
 
+###### Fonte: Autoria própria.
 
 
+##### 3. Resultados e Discussões
+######
+Para atender as dúvidas mais frequentes dos estudantes, foi criado um Formulário de
+Sugestões de Tutoriais acessível a todos os estudantes. Com a finalidade de permitir que
+estudantes compartilhem ideias, temas de interesse e áreas nas quais desejam encontrar
+informações adicionais, para uma melhor identificação de desafios do dia a dia, dúvidas
+frequentes e áreas que possam ser beneficiadas com os tutoriais detalhados.
+Priorizou-se a construção dos seguintes tutoriais:
+- Como fazer o primeiro acesso ao SUAP;
+- Como alterar sua senha do SUAP;
+- Como abrir chamado;
+- Como solicitar refeições;
+- Como justificar falta nas refeições;
+- Como solicitar auxílios eventuais;
+- Como emitir declarações/comprovantes pelo SUAP;
+- Como ter acesso ao boletim;
+- Como reservar livro na biblioteca;
+- Como renovar o livro.
+Logo abaixo apresentamos o gráfico gerado juntamente com o texto introdutório do
+Formulário mencionado com a seguinte pergunta:
 
+**“Você já teve dificuldade como essas ou outras? Se sim, escreva aqui sua dificuldade:”**
+
+![Figura 2: Foto do formulário de pesquisa realizado com os estudantes;]![Alt text](guia1.png)
+
+######
+Para criar um ambiente de teste robusto, foi adotada a configuração com VirtualBox,
+Ubuntu Server e Dokuwiki. Essa escolha permitiu simular um ambiente realista para os
+estudantes, fornecendo uma plataforma estável e flexível para a implementação dos tutoriais.
+Durante a fase de implantação no Ambiente de Teste, o DokuWiki foi instalado e está
+sendo adaptado para se alinhar conforme as necessidades dos estudantes. Estão sendo feitas
+personalizações específicas para tornar a plataforma mais amigável e eficaz como um recurso
+para tirar dúvidas, garantindo que os tutoriais fossem facilmente acessíveis e compreensíveis.
+
+![Foto da página inicial do Dokuwiki recém instalado.]![Alt text](dokuwiki4.png)
+
+###### Fonte: Dokuwiki.
+
+##### 4. Considerações Finais
+######
+Até o momento, avançamos significativamente no projeto do Guia do Estudante, que
+visa criar um site com tutoriais destinados a resolver as dúvidas dos estudantes. A coleta de
+dados junto à comunidade proporcionou uma compreensão valiosa das necessidades e
+desafios enfrentados pelos estudantes. Com base nessa análise, tomamos decisões informadas
+sobre os tópicos a serem abordados nos tutoriais. Além disso, estabelecemos um ambiente de
+teste sólido com a configuração do VirtualBox e Ubuntu Server e estamos realizando com
+sucesso a instalação e adaptação do DokuWiki para atender às demandas dos estudantes.
+No entanto, enfrentamos algumas dificuldades durante o processo, como a necessidade
+de personalização do DokuWiki para torná-lo mais amigável e eficaz. Também podemos ter
+encontrado desafios técnicos na configuração do ambiente de teste. Para as próximas etapas,
+pretendemos continuar refinando os tutoriais e monitorando o feedback dos estudantes para
+garantir que eles atendam às expectativas. Além disso, planejamos expandir a plataforma com
+recursos adicionais que possam beneficiar ainda mais os estudantes. Estamos comprometidos
+em aprimorar constantemente o Guia do Estudante e criar um recurso valioso para a
+comunidade educacional.
+
+*Referências*
+
+######
+Instalação Ubuntu Server, Canal do YouTube: Diolinux. (2019). Ubuntu SERVER - COMO
+instalar em MENOS de 20 MINUTOS!😎 Disponível em:
+https://youtu.be/3XkHSi0qCkc?si=WgbAYnd45FQZOJ86.
+Instalação Dokuwiki, Canal do YouTube: Reasonable IT Service. (2022). How To Install
+DokuWiki On Ubuntu Server 22.04.1 - 100% Working. Disponível em:
+https://youtu.be/73PU4XvW-04.
+SIQUEIRA, Luciano. Máquinas virtuais com virtualbox. 2ª edição (10 dezembro 2013)
+Editora: Linux New Media do Brasil. Disponível em:
+https://books.google.com.br/books?hl=pt-BR&lr=&id=tBmTs7ujtqUC&oi=fnd&pg=PA7&dq
+=virtual+box+m%C3%A1quina+virtual&ots=EqplC6un0g&sig=BlHf3ab_iZiHxvgLXP4bXU
+HfD_Y#v=onepage&q=virtual%20box%20m%C3%A1quina%20virtual&f=false.
+DokuWiki. (s.d.). Documentação. DokuWiki. Disponível em:
+https://www.dokuwiki.org/pt-br:dokuwiki.
+SILVEIRA, Sérgio. Software livre: A Luta Pela Liberdade do Conhecimento. Editora, 2004.
+Fundação Perseu Abramo. Disponível em:
+https://bibliotecadigital.fpabramo.org.br/xmlui/bitstream/handle/123456789/299/Software_liv
+re.pdf?sequence=1&isAllowed=y.
+Ceolin, SR, Henke, M., Favero, M. de F., & Rente, VC (2023). DOKUWIKI - UMA
+FERRAMENTA PARA SOLUÇÕES COLABORATIVAS. Revista Contemporânea , 3 (07),
+9302–9318. Disponível em:
+https://ojs.revistacontemporanea.com/ojs/index.php/home/article/view/938/817
+Guia do Estudante. Formulário, 06/2023. Disponível em;
+https://docs.google.com/forms/d/e/1FAIpQLSdxMGHCYaOq0EIl4wANTnTHsKR5LjlUvbqj
+F0gHEwF1x0SGXA/viewform?u
