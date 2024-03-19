@@ -29,9 +29,9 @@ A seguir serão apresentados os diagramas de caso de uso que mostram como aconte
 
 Figura 1:  (a) Funcionamento do Website;  (b) Sugestão de novos tutoriais;  (c) Avaliação dos Tutoriais; 
 
-![a]![Alt text](<diagrama de caso de uso (2).png>)
-![b]![Alt text](<Guia do Estudante.png>)
-![c]![Alt text](<Guia do Estudante (1).png>)
+(a)![Alt text](<diagrama de caso de uso (2).png>)
+(b)![Alt text](<Guia do Estudante.png>)
+(c)![Alt text](<Guia do Estudante (1).png>)
 
 
 ###### Fonte: Autoria própria.
@@ -60,7 +60,10 @@ Formulário mencionado com a seguinte pergunta:
 
 **“Você já teve dificuldade como essas ou outras? Se sim, escreva aqui sua dificuldade:”**
 
-![Figura 2: Foto do formulário de pesquisa realizado com os estudantes;]![Alt text](guia1.png)
+Figura 2: Foto do formulário de pesquisa realizado com os estudantes;![Alt text](guia1.png)
+
+
+Figura 3: Resultado da pesquisa do formulário;![Alt text](pesquisa.png)
 
 ######
 Para criar um ambiente de teste robusto, foi adotada a configuração com VirtualBox,
@@ -71,7 +74,7 @@ sendo adaptado para se alinhar conforme as necessidades dos estudantes. Estão s
 personalizações específicas para tornar a plataforma mais amigável e eficaz como um recurso
 para tirar dúvidas, garantindo que os tutoriais fossem facilmente acessíveis e compreensíveis.
 
-![Foto da página inicial do Dokuwiki recém instalado.]![Alt text](dokuwiki4.png)
+Foto da página inicial do Dokuwiki recém instalado.![Alt text](dokuwiki4.png)
 
 ###### Fonte: Dokuwiki.
 
