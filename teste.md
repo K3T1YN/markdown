@@ -31,15 +31,9 @@ A seguir serão apresentados os diagramas de caso de uso que mostram como aconte
 
 Figura 1:  (a) Funcionamento do Website;  (b) Sugestão de novos tutoriais;  (c) Avaliação dos Tutoriais; 
 
-<<<<<<< HEAD
 (a)![Alt text](<diagrama de caso de uso (2).png>)
 (b)![Alt text](<Guia do Estudante.png>)
 (c)![Alt text](<Guia do Estudante (1).png>)
-=======
-a)![Alt text](<diagrama de caso de uso (2).png>)
-b)![Alt text](<Guia do Estudante.png>)
-c)![Alt text](<Guia do Estudante (1).png>)
->>>>>>> 9a9343eff1f01f84dbe3f9ea712226ddc162f79d
 
 
 ###### Fonte: Autoria própria.
@@ -69,12 +63,10 @@ Formulário mencionado com a seguinte pergunta:
 **“Você já teve dificuldade como essas ou outras? Se sim, escreva aqui sua dificuldade:”**
 
 Figura 2: Foto do formulário de pesquisa realizado com os estudantes;![Alt text](guia1.png)
-<<<<<<< HEAD
 
 
 Figura 3: Resultado da pesquisa do formulário;![Alt text](pesquisa.png)
-=======
->>>>>>> 9a9343eff1f01f84dbe3f9ea712226ddc162f79d
+
 
 ######
 Para criar um ambiente de teste robusto, foi adotada a configuração com VirtualBox,
