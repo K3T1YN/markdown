@@ -31,9 +31,9 @@ A seguir serão apresentados os diagramas de caso de uso que mostram como aconte
 
 Figura 1:  (a) Funcionamento do Website;  (b) Sugestão de novos tutoriais;  (c) Avaliação dos Tutoriais; 
 
-(a)![Alt text](<diagrama de caso de uso (2).png>)
-(b)![Alt text](<Guia do Estudante.png>)
-(c)![Alt text](<Guia do Estudante (1).png>)
+| (a)![Imagem 1](<diagrama de caso de uso (2).png>) | (b)![Imagem 2](<Guia do Estudante.png>) | (c) ![Imagem 3](<Guia do Estudante (1).png>) |
+|:------------------------------------:|:------------------------------------:|:------------------------------------:|
+|       Texto opcional da imagem 1      |       Texto opcional da imagem 2      |       Texto opcional da imagem 3      |
 
 
 ###### Fonte: Autoria própria.
@@ -62,10 +62,14 @@ Formulário mencionado com a seguinte pergunta:
 
 **“Você já teve dificuldade como essas ou outras? Se sim, escreva aqui sua dificuldade:”**
 
-Figura 2: Foto do formulário de pesquisa realizado com os estudantes;![Alt text](guia1.png)
+Figura 2: Foto do formulário de pesquisa realizado com os estudantes;! 
+
+<img src = "guia1.png" width= "400" height ="200"/>
 
 
-Figura 3: Resultado da pesquisa do formulário;![Alt text](pesquisa.png)
+Figura 3: Resultado da pesquisa do formulário;
+
+<img src = "pesquisa.png" width= "400" height ="200"/> 
 
 
 ######
@@ -77,7 +81,10 @@ sendo adaptado para se alinhar conforme as necessidades dos estudantes. Estão s
 personalizações específicas para tornar a plataforma mais amigável e eficaz como um recurso
 para tirar dúvidas, garantindo que os tutoriais fossem facilmente acessíveis e compreensíveis.
 
-Foto da página inicial do Dokuwiki recém instalado.![Alt text](dokuwiki4.png)
+Foto da página inicial do Dokuwiki recém instalado.
+
+<img src = "dokuwiki4.png" width= "400" height ="200"/>
+
 
 ###### Fonte: Dokuwiki.
 
@@ -125,5 +132,11 @@ FERRAMENTA PARA SOLUÇÕES COLABORATIVAS. Revista Contemporânea , 3 (07),
 9302–9318. Disponível em:
 https://ojs.revistacontemporanea.com/ojs/index.php/home/article/view/938/817
 Guia do Estudante. Formulário, 06/2023. Disponível em;
-https://docs.google.com/forms/d/e/1FAIpQLSdxMGHCYaOq0EIl4wANTnTHsKR5LjlUvbqj
-F0gHEwF1x0SGXA/viewform?u
+https://docs.google.com/forms/d/e/1FAIpQLSdxMGHCYaOq0EIl4wANTnTHsKR5LjlUvbqjF0gHEwF1x0SGXA/viewform?usp=sf_link
+
+
+
+
+
+
+
